@@ -1,0 +1,8 @@
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:92:5:main	8	static
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:139:6:SystemClock_Config	120	static
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:200:13:MX_ETH_Init	8	static
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:249:13:MX_USART3_UART_Init	8	static
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:297:13:MX_USB_OTG_FS_PCD_Init	8	static
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:333:13:MX_GPIO_Init	56	static
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:400:6:HAL_GPIO_EXTI_Callback	16	static,ignoring_inline_asm
+D:/JONAS/FACULDADE/MESTRADO/PROJETOS PLACA EMBARCADOS/Projeto5_Interrupcao/Core/Src/main.c:415:6:Error_Handler	4	static,ignoring_inline_asm
